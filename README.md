@@ -1,2 +1,2 @@
 # RoomReservation-Database
-Room Reservation System
+Run this code using XAMPP

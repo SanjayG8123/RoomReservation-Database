@@ -1,2 +1,2 @@
-# SanjayG8123.github.io
+# RoomReservation-Database
 Room Reservation System
